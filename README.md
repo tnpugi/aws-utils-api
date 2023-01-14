@@ -1,6 +1,14 @@
 # AWS Services Integration API
 This is a small ExpressJS app to test out AWS services.
 
+# How to Run
+```
+Build `yarn run build`
+Run on deloyment `yarn start`
+Run locally `yarn run start:dev`
+Run test `yarn test`
+```
+
 # Library Stack
 ```
 AWS SDK - @aws-sdk
