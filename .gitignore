@@ -1,0 +1,5 @@
+node_modules
+_dist
+_testcov
+.env_local
+yarn-error.log
